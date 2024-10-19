@@ -8,10 +8,10 @@ package com.mycompany.prisonmanage.src.service;
 import java.io.*;
 import java.util.List;
 
-/**
- *
+/** *
  * @author admin
  */
 public class dataHandler {
+    
     
 }
